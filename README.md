@@ -27,5 +27,14 @@ Jika sudah login, maka akan tampil seperti dibawah ini:
 
 
 Tampilan Data User
-![aplikasiperekamandataleptop_datauser](https://user-images.githubusercontent.com/71999780/168934233-bfe75834-1044-45d1-a2a4-cfa2c586f6d3.jpeg)
+
+
+![dataperekaman_datauser](https://user-images.githubusercontent.com/71999780/168935733-1b1e0b63-353d-4d7b-8234-c70f276b6c2b.png)
+
+
+
+Tampilan Data Barang
+
+
+![dataperekaman_databarang](https://user-images.githubusercontent.com/71999780/168935736-e1b80a7b-ccd6-4fbd-9fe6-b6399e0d0d90.png)
 
