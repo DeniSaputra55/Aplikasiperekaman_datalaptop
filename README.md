@@ -1,3 +1,5 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
 Ini adalah aplikasi website Perekaman Data Leptop yang digunakan dengan semestinya. Menggunakan bahasa pemrograman PHP. Website ini dapat di akses pada link http://perekamandataleptop.epizy.com/ . Aplikasi ini dibuat oleh:
 
 Nama  : Deni Saputra
@@ -5,6 +7,7 @@ Nama  : Deni Saputra
 NIM   : 20090016
 
 Kelas : 4B
+----------------------------------------------------------------
 
 
 Tampilan Login
