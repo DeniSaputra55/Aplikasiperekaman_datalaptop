@@ -14,16 +14,11 @@ Tampilan Login
 Untuk login, dapat masuk dengan email dan password berikut:
 
 
-email    : alfin@gmail.com
+email    : admin@gmail.com
 
-Password : 1234
+Password : admin
 
 
-atau
-
-email    : kamu@gmail.com
-
-Password : 1234567
 
 
 ----------------------------------------------------------------
