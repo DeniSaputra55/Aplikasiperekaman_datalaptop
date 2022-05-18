@@ -28,6 +28,7 @@ Password : 1234567
 
 ----------------------------------------------------------------
 
+Jika sudah login, maka akan tampil seperti dibawah ini:
 
 
 Tampilan Data User
