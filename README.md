@@ -11,13 +11,14 @@ Tampilan Login
 ![dataperekaman_login](https://user-images.githubusercontent.com/71999780/168934000-cd335350-2c80-4950-9f04-86d29a145506.png)
 
 Untuk login, dapat masuk dengan email dan password berikut:
-1.
+
 
 email    : alfin@gmail.com
 
 Password : 1234
 
-2.
+
+atau
 
 email    : kamu@gmail.com
 
