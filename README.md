@@ -1,6 +1,7 @@
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 Ini adalah aplikasi website Perekaman Data Leptop yang digunakan dengan semestinya. Menggunakan bahasa pemrograman PHP. Website ini dapat di akses pada link http://perekamandataleptop.epizy.com/ .
+
 berikut link untuk melihat prototypenya :
 https://www.figma.com/proto/tOmabvhaG4nhq5LDtaT0sT/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 Aplikasi ini dibuat oleh:
